@@ -12,7 +12,7 @@ After opening the website https://splunk.lightning.force.com/lightning/r/Deal_Su
 * Technical Challenges with value No
 * choose in Technical Adoption Help value Yes - GSS Resolved - Customer NOT ODS entitled and Save ticket.
 
-The easiest way to use it is to add Chrome/Arc User [JavaScript and CSS extension](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) -> add new side, in the JS window -> copy code from  `fill_extension.js` → paste code in JS window.
+The easiest way to use it is to add Chrome/Arc User [JavaScript and CSS extension](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) -> add new side, in the JS window -> copy code from  `fill_extension.js` → paste code in JS window -> paste page template https://splunk.lightning.force.com/lightning/r/Deal_Support__c/* in the right page example window.
 
 
 ## Bookmarks solution
