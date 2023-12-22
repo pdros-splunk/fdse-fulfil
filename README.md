@@ -17,10 +17,3 @@ The easiest way to use it is to add Chrome/Arc User [JavaScript and CSS extensio
 
 ## Bookmarks solution
 Second idea for Chrome browser is to create bookmark as JS file to execute script by clicking in it. The code from `fill_as_bookmark.js` we have to paste in URL field during new bookmark creation.
-
-### Name []
-### URL [fill_as_bookmark.js]
-
-### Bookmarks Bar
-* ...
-### Other Bookmarks
